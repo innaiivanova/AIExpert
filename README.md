@@ -1,6 +1,6 @@
 # AIExpert
 
-**Summary**
+## Summary
 
 The AIExpert is an AI online learning platform, that deploys AI methods to teach AI and enables learning AI concepts by playing games. 
 #AI #gamification #education
