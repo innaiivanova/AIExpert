@@ -4,6 +4,7 @@
 
 The AIExpert is an AI online learning platform, that deploys AI methods to teach AI and enables learning AI concepts by playing games. 
 #AI #gamification #education #Building AI course project
+This project was inspired by my participation on the online learning platform Elements of AI. (https://www.elementsofai.com)
 
 ### Background
 
